@@ -1,4 +1,4 @@
-class Farmer{
+class Mkulima{
     constructor(){
     this.farms = [];
 
@@ -50,7 +50,7 @@ console.log(`${quantity} ${specificProduct.productName} for KES ${quantity*speci
 }
 }
 
-let farmA = new Farmer();
+let farmA = new Mkulima();
 farmA.addFarm("255","Juma","Abel","0712229042", "Q1470");
     farmA.addFarm("123","Maureen","Juma","0753262827", "YOLO494");
     farmA.addFarm("524","Agnes","Kamau","0723748348", "AAA605");
